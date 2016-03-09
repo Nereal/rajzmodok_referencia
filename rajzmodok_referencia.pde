@@ -1,0 +1,15 @@
+size(700, 700);
+noStroke();
+fill(255,70,70);
+ellipse(500,300,200,200);
+stroke(0,255,255);
+strokeWeight(10);
+line(20,20,300,650);
+stroke(0,0,0);
+strokeWeight(2);
+noFill();
+rect(300,100,200,200);
+stroke(120,40,200);
+fill(225,225,200,140);
+//tint(225,225,200);
+ellipse(250,250,400,400);
